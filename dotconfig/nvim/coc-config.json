@@ -1,0 +1,8 @@
+{
+
+"suggest.enablePreview":true,
+"suggest.autoTrigger":"always",
+"suggest.maxPreviewWidth":60,
+"languageserver.javascript.enable":true
+
+}
