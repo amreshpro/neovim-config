@@ -1,14 +1,12 @@
 # neovim-config
 
 #Step1
-`
-mkdir ~/.config   <br>
+> mkdir ~/.config   
 
-cd ~/.config 
+> cd ~/.config 
 
-
-mkdir nvim
+> mkdir nvim
 
 
-cd nvim
-`
+> cd nvim
+
